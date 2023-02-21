@@ -1,0 +1,69 @@
+.second-side{
+    display: flex;
+}
+
+.lines{
+    display: flex;
+    margin-left: 29em;
+}
+.class one-1{
+    padding-left: 40%;
+    color: blue;
+    font-weight: bold;}
+     .model{
+            margin: 20px;
+            padding: 50px;  
+            height:900px;
+            border-bottom: none;
+            border-top: none;
+            border-radius: 10px;
+        }
+          
+    
+        img{
+            width: 1080px;
+            padding: 1px 8px 6px 2px;
+            height: 500px;
+            padding-top: 30px    
+            
+        }
+        .logo{
+            
+    
+            width: 20%;
+            height: 10%;
+            
+            
+        
+        }
+        p{
+            text-align: center;
+            font-size: 30px;
+            padding-left: 80px;
+        }
+        span{ 
+            color: green;
+        }
+        #commerce{
+            color: rgb(92, 92, 215);
+
+        }
+        .info{
+            font-size: 15px;
+            color: rgb(29, 29, 87);
+        
+        }
+        #ton{
+            text-align: center;
+            border: solid;
+            font-weight: bold;
+        }
+        .bag img{
+
+            width: 4%;
+            height: 5%;
+            padding-left: 6%;
+            
+        
+
+}
